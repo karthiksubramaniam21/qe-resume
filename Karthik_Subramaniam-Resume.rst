@@ -5,6 +5,7 @@ KARTHIK SUBRAMANIAM
 
 Skills Summary
 ---------------
+
 Seasoned Engineering Leader with over *22* Years of experience, specialized in validating **Distributed, Virtualized, Storage and Network Infrastructure Systems**. Including over 4 years as a **Quality Engineering Leader** managing System Test team of over 10 engineers across geo both in India and the US. Strong Experience in **Architecting Python Automation frameworks**. Function as a technical lead on projects working collaboratively with Development during all stages of the Project. Define Scope and objectives of all levels of QA Testing, establishing purpose and deliverables of Test Efforts.
 
 Education
