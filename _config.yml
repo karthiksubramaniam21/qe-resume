@@ -4,6 +4,7 @@ plugins:
 
 title: Karthik Subramaniam
 description: Karthik Subramaniam's Resume
+show_downloads: true
 
 github:
   pdf_url: https://karthiksubramaniam21.github.io/qe-resume/Karthik_Subramaniam_Resume.pdf
