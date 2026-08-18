@@ -1,5 +1,5 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 <<
 /F1 2 0 R /F2 3 0 R /F3 6 0 R /F4 7 0 R /F5 8 0 R /F6 9 0 R
@@ -19,14 +19,14 @@ endobj
 <<
 /A <<
 /S /URI /Type /Action /URI (mailto:karthik.cbe@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 143.3036 675.0236 247.3636 687.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 143.3036 687.0236 247.3636 699.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
 /S /URI /Type /Action /URI (http://www.linkedin.com/in/karthik-subramaniam-66aaa17)
->> /Border [ 0 0 0 ] /Rect [ 255.5236 675.0236 484.4736 687.0236 ] /Subtype /Link /Type /Annot
+>> /Border [ 0 0 0 ] /Rect [ 255.5236 687.0236 484.4736 699.0236 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
@@ -76,7 +76,7 @@ endobj
 endobj
 13 0 obj
 <<
-/Author () /CreationDate (D:20260818143501+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260818143501+05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author () /CreationDate (D:20260818130120+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260818130120+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (KARTHIK SUBRAMANIAM) /Trapped /False
 >>
 endobj
@@ -87,28 +87,28 @@ endobj
 endobj
 15 0 obj
 <<
-/Dest [ 10 0 R /XYZ 57.02362 663.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (Skills Summary)
+/Dest [ 10 0 R /XYZ 57.02362 675.0236 0 ] /Next 16 0 R /Parent 14 0 R /Title (Skills Summary)
 >>
 endobj
 16 0 obj
 <<
-/Dest [ 10 0 R /XYZ 57.02362 546.0236 0 ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (Education)
+/Dest [ 10 0 R /XYZ 57.02362 564.0236 0 ] /Next 17 0 R /Parent 14 0 R /Prev 15 0 R /Title (Education)
 >>
 endobj
 17 0 obj
 <<
-/Count 6 /Dest [ 10 0 R /XYZ 57.02362 447.0236 0 ] /First 18 0 R /Last 23 0 R /Parent 14 0 R /Prev 16 0 R 
+/Count 6 /Dest [ 10 0 R /XYZ 57.02362 465.0236 0 ] /First 18 0 R /Last 23 0 R /Parent 14 0 R /Prev 16 0 R 
   /Title (Experience)
 >>
 endobj
 18 0 obj
 <<
-/Dest [ 10 0 R /XYZ 57.02362 414.0236 0 ] /Next 19 0 R /Parent 17 0 R /Title (Nutanix India, Bangalore, India)
+/Dest [ 10 0 R /XYZ 57.02362 432.0236 0 ] /Next 19 0 R /Parent 17 0 R /Title (Nutanix India, Bangalore, India)
 >>
 endobj
 19 0 obj
 <<
-/Dest [ 10 0 R /XYZ 57.02362 198.0236 0 ] /Next 20 0 R /Parent 17 0 R /Prev 18 0 R /Title (Nutanix Inc, San Jose, California)
+/Dest [ 10 0 R /XYZ 57.02362 216.0236 0 ] /Next 20 0 R /Parent 17 0 R /Prev 18 0 R /Title (Nutanix Inc, San Jose, California)
 >>
 endobj
 20 0 obj
@@ -138,7 +138,7 @@ endobj
 endobj
 25 0 obj
 <<
-/Length 7451
+/Length 7124
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -155,61 +155,38 @@ Q
 q
 1 0 0 1 57.02362 687.0236 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1H1 Arihant Esta Apartments, 370/1 Church Road, Mogappair East, Chennai 600 037, India |) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 675.0236 cm
-q
 BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (+91 99525 12384 | ) Tj 0 .4 .6 rg (karthik.cbe@gmail.com) Tj 0 0 0 rg ( | ) Tj 0 .4 .6 rg (www.linkedin.com/in/karthik-subramaniam-66aaa17) Tj  T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 675.0236 cm
+1 0 0 1 57.02362 687.0236 cm
 Q
 q
-1 0 0 1 57.02362 642.0236 cm
+1 0 0 1 57.02362 654.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Skills Summary) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 630.0236 cm
-Q
+1 0 0 1 57.02362 576.0236 cm
 q
-1 0 0 1 57.02362 558.0236 cm
-q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-BT 1 0 0 1 0 2 Tm  T* ET
-q
-1 0 0 1 20 0 cm
-q
-BT 1 0 0 1 0 62 Tm .734029 Tw 12 TL /F1 10 Tf 0 0 0 rg (Seasoned Engineering Leader with over ) Tj /F3 10 Tf (22) Tj /F1 10 Tf ( Years of experience, specialized in validating ) Tj /F4 10 Tf (Distributed,) Tj T* 0 Tw 2.636529 Tw (Virtualized, Storage and Network Infrastructure Systems) Tj /F1 10 Tf (. Including over 4 years as a ) Tj /F4 10 Tf (Quality) Tj T* 0 Tw -0.075728 Tw (Engineering Leader) Tj /F1 10 Tf ( managing System Test team of over 10 engineers across geo both in India and the) Tj T* 0 Tw .368196 Tw (US. Strong Experience in ) Tj /F4 10 Tf (Architecting Python Automation frameworks) Tj /F1 10 Tf (. Function as a technical lead) Tj T* 0 Tw .312025 Tw (on projects working collaboratively with Development during all stages of the Project. Define Scope and) Tj T* 0 Tw (objectives of all levels of QA Testing, establishing purpose and deliverables of Test Efforts.) Tj T* ET
+BT 1 0 0 1 0 62 Tm 2.400696 Tw 12 TL /F1 10 Tf 0 0 0 rg (Seasoned Engineering Leader with over ) Tj /F3 10 Tf (22) Tj /F1 10 Tf ( Years of experience, specialized in validating ) Tj /F4 10 Tf (Distributed,) Tj T* 0 Tw 4.303196 Tw (Virtualized, Storage and Network Infrastructure Systems) Tj /F1 10 Tf (. Including over 4 years as a ) Tj /F4 10 Tf (Quality) Tj T* 0 Tw -0.038921 Tw (Engineering Leader) Tj /F1 10 Tf ( managing System Test team of over 10 engineers across geo both in India and the US.) Tj T* 0 Tw 2.497362 Tw (Strong Experience in ) Tj /F4 10 Tf (Architecting Python Automation frameworks) Tj /F1 10 Tf (. Function as a technical lead on) Tj T* 0 Tw 2.943719 Tw (projects working collaboratively with Development during all stages of the Project. Define Scope and) Tj T* 0 Tw (objectives of all levels of QA Testing, establishing purpose and deliverables of Test Efforts.) Tj T* ET
 Q
 Q
 q
-Q
-Q
-Q
-q
-1 0 0 1 57.02362 558.0236 cm
-Q
-q
-1 0 0 1 57.02362 525.0236 cm
+1 0 0 1 57.02362 543.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 513.0236 cm
+1 0 0 1 57.02362 531.0236 cm
 Q
 q
-1 0 0 1 57.02362 513.0236 cm
+1 0 0 1 57.02362 531.0236 cm
 Q
 q
-1 0 0 1 57.02362 483.0236 cm
+1 0 0 1 57.02362 501.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -245,10 +222,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 477.0236 cm
+1 0 0 1 57.02362 495.0236 cm
 Q
 q
-1 0 0 1 57.02362 459.0236 cm
+1 0 0 1 57.02362 477.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -277,41 +254,41 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 459.0236 cm
+1 0 0 1 57.02362 477.0236 cm
 Q
 q
-1 0 0 1 57.02362 426.0236 cm
+1 0 0 1 57.02362 444.0236 cm
 q
 BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf .133333 .133333 .133333 rg (Experience) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 396.0236 cm
+1 0 0 1 57.02362 414.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F6 15 Tf .133333 .133333 .133333 rg (Nutanix India, Bangalore, India) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 378.0236 cm
+1 0 0 1 57.02362 396.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Senior Manager, Engineering | Mar 2022 - Till Date) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 360.0236 cm
+1 0 0 1 57.02362 378.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (System Test) Tj /F1 10 Tf ( Flow \(Virtual Networking and Network Security\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 354.0236 cm
+1 0 0 1 57.02362 372.0236 cm
 Q
 q
-1 0 0 1 57.02362 354.0236 cm
+1 0 0 1 57.02362 372.0236 cm
 Q
 q
-1 0 0 1 57.02362 330.0236 cm
+1 0 0 1 57.02362 348.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -334,10 +311,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 324.0236 cm
+1 0 0 1 57.02362 342.0236 cm
 Q
 q
-1 0 0 1 57.02362 300.0236 cm
+1 0 0 1 57.02362 318.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -359,10 +336,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 294.0236 cm
+1 0 0 1 57.02362 312.0236 cm
 Q
 q
-1 0 0 1 57.02362 258.0236 cm
+1 0 0 1 57.02362 276.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -384,10 +361,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 252.0236 cm
+1 0 0 1 57.02362 270.0236 cm
 Q
 q
-1 0 0 1 57.02362 228.0236 cm
+1 0 0 1 57.02362 246.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -410,42 +387,42 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 228.0236 cm
+1 0 0 1 57.02362 246.0236 cm
 Q
 q
-1 0 0 1 57.02362 210.0236 cm
+1 0 0 1 57.02362 228.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F4 10 Tf 12 TL (\(KVM, OVS, OVN, FRR, Python, RESTful API, Docker, Kubernetes, GIT, Gerrit, Jira, Confluence, AI\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 180.0236 cm
+1 0 0 1 57.02362 198.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F6 15 Tf .133333 .133333 .133333 rg (Nutanix Inc, San Jose, California) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 162.0236 cm
+1 0 0 1 57.02362 180.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Staff Engineer | Dec 2015 - Mar 2022) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 144.0236 cm
+1 0 0 1 57.02362 162.0236 cm
 q
 BT 1 0 0 1 0 2 Tm 12 TL /F4 10 Tf 0 0 0 rg (System Test) Tj /F1 10 Tf ( Prism Central Product) Tj T* ET
 Q
 Q
 q
-1 0 0 1 57.02362 138.0236 cm
+1 0 0 1 57.02362 156.0236 cm
 Q
 q
-1 0 0 1 57.02362 138.0236 cm
+1 0 0 1 57.02362 156.0236 cm
 Q
 q
-1 0 0 1 57.02362 102.0236 cm
+1 0 0 1 57.02362 120.0236 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -467,10 +444,10 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 96.02362 cm
+1 0 0 1 57.02362 114.0236 cm
 Q
 q
-1 0 0 1 57.02362 72.02362 cm
+1 0 0 1 57.02362 90.02362 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -492,7 +469,7 @@ Q
 Q
 Q
 q
-1 0 0 1 57.02362 66.02362 cm
+1 0 0 1 57.02362 84.02362 cm
 Q
  
 endstream
@@ -981,45 +958,45 @@ endobj
 xref
 0 30
 0000000000 65535 f 
-0000000061 00000 n 
-0000000142 00000 n 
-0000000249 00000 n 
-0000000358 00000 n 
-0000000538 00000 n 
-0000000744 00000 n 
-0000000859 00000 n 
-0000000971 00000 n 
-0000001076 00000 n 
-0000001184 00000 n 
-0000001414 00000 n 
-0000001620 00000 n 
-0000001726 00000 n 
-0000002000 00000 n 
-0000002075 00000 n 
-0000002191 00000 n 
-0000002315 00000 n 
-0000002466 00000 n 
-0000002599 00000 n 
-0000002747 00000 n 
-0000002897 00000 n 
-0000003048 00000 n 
-0000003195 00000 n 
-0000003345 00000 n 
-0000003413 00000 n 
-0000010916 00000 n 
-0000019856 00000 n 
-0000019906 00000 n 
-0000019940 00000 n 
+0000000073 00000 n 
+0000000154 00000 n 
+0000000261 00000 n 
+0000000370 00000 n 
+0000000550 00000 n 
+0000000756 00000 n 
+0000000871 00000 n 
+0000000983 00000 n 
+0000001088 00000 n 
+0000001196 00000 n 
+0000001426 00000 n 
+0000001632 00000 n 
+0000001738 00000 n 
+0000002015 00000 n 
+0000002090 00000 n 
+0000002206 00000 n 
+0000002330 00000 n 
+0000002481 00000 n 
+0000002614 00000 n 
+0000002762 00000 n 
+0000002912 00000 n 
+0000003063 00000 n 
+0000003210 00000 n 
+0000003360 00000 n 
+0000003428 00000 n 
+0000010604 00000 n 
+0000019544 00000 n 
+0000019594 00000 n 
+0000019628 00000 n 
 trailer
 <<
 /ID 
-[<e0edb92f4c8f31431000451d41e03ace><e0edb92f4c8f31431000451d41e03ace>]
-% ReportLab generated PDF document -- digest (opensource)
+[<97a3b6f31ca375c2ac7c6dbca07ed1fe><97a3b6f31ca375c2ac7c6dbca07ed1fe>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 13 0 R
 /Root 12 0 R
 /Size 30
 >>
 startxref
-19974
+19662
 %%EOF
