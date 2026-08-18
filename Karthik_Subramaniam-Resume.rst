@@ -1,13 +1,11 @@
 KARTHIK SUBRAMANIAM
 ======================
 
-| 1H1 Arihant Esta Apartments, 370/1 Church Road, Mogappair East, Chennai 600 037, India |
 | +91 99525 12384 | karthik.cbe@gmail.com | `www.linkedin.com/in/karthik-subramaniam-66aaa17 <http://www.linkedin.com/in/karthik-subramaniam-66aaa17>`_
 
 Skills Summary
 ---------------
- Seasoned Engineering Leader with over *22* Years of experience, specialized in validating **Distributed, Virtualized, Storage and Network Infrastructure Systems**. Including over 4 years as a **Quality Engineering Leader** managing System Test team of over 10 engineers across geo both in India and the US. 
- Strong Experience in **Architecting Python Automation frameworks**. Function as a technical lead on projects working collaboratively with Development during all stages of the Project. Define Scope and objectives of all levels of QA Testing, establishing purpose and deliverables of Test Efforts.
+Seasoned Engineering Leader with over *22* Years of experience, specialized in validating **Distributed, Virtualized, Storage and Network Infrastructure Systems**. Including over 4 years as a **Quality Engineering Leader** managing System Test team of over 10 engineers across geo both in India and the US. Strong Experience in **Architecting Python Automation frameworks**. Function as a technical lead on projects working collaboratively with Development during all stages of the Project. Define Scope and objectives of all levels of QA Testing, establishing purpose and deliverables of Test Efforts.
 
 Education
 ----------
