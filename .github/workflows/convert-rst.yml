@@ -1,0 +1,36 @@
+name: Convert RST to MD for Jekyll Theme
+on:
+  push:
+    branches: [ main ] # Change this if your default branch is 'master'
+
+permissions:
+  contents: write
+
+jobs:
+  convert-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+
+      - name: Convert Files
+        run: |
+          pandoc Karthik_Subramaniam-Resume.rst -f rst -t gfm -o index.md
+          # Finds all .rst files and converts them to GitHub-Flavored Markdown (.md)
+          # find . -type f -name "*.rst" | while read -r file; do
+          #  filename="${file%.rst}"
+          #  pandoc "$file" -f rst -t gfm -o "${filename}.md"
+          #done
+
+      - name: Commit and Push Markdown Files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add .
+          # Only commit if there are actual changes to prevent workflow errors
+          git diff-index --quiet HEAD || git commit -m "Auto-converted RST to MD"
+          git push
+
