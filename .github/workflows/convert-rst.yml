@@ -14,11 +14,12 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install Pandoc
-        run: sudo apt-get update && sudo apt-get install -y pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc rst2pdf
 
       - name: Convert Files
         run: |
           pandoc Karthik_Subramaniam-Resume.rst -f rst -t gfm -o index.md
+          rst2pdf Karthik_Subramaniam-Resume.rst Karthik_Subramaniam_Resume.pdf
           # Finds all .rst files and converts them to GitHub-Flavored Markdown (.md)
           # find . -type f -name "*.rst" | while read -r file; do
           #  filename="${file%.rst}"
